@@ -1,0 +1,59 @@
+@-moz-document domain("translate.yandex.by") {
+
+*
+
+{
+
+    background: #000 !important;
+
+    border: none !important;
+
+    box-shadow: none !important;
+
+}
+
+
+
+.main
+
+{
+
+    color: gray;
+
+}
+
+
+
+.item
+
+{
+
+    margin-top: 40px;
+
+}
+
+.textbox 
+
+{
+
+    font-size: 30px;
+
+}
+
+
+
+#header,
+
+#favWrapper,
+
+.footer,
+
+.panel
+
+{
+
+    display: none !important;
+
+}
+
+}
