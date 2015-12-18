@@ -11,6 +11,10 @@
     color: gray;
 }
 
+.container_main {
+	height: 100% !important;
+}
+
 .item
 {
     margin-top: 40px;
