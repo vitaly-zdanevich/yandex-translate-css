@@ -1,4 +1,9 @@
 @-moz-document domain("translate.yandex.by") {
+
+::-webkit-scrollbar {
+	display: none;
+}
+
 *
 {
     background: #000 !important;
@@ -12,7 +17,7 @@
 }
 
 .container_main {
-	height: 100% !important;
+	height: 40% !important;
 }
 
 .item
