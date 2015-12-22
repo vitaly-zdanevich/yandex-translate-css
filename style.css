@@ -37,4 +37,9 @@
 {
     display: none !important;
 }
+
+.synonyms-list, .dictionary-list {
+	overflow: visible;
+}
+
 }
